@@ -126,7 +126,7 @@ class SettingsFragment : Fragment() {
     private fun setupClickListeners() {
         binding.btnAddStreak.setOnClickListener { showAddStreakDialog() }
         binding.textPrivacyPolicy.setOnClickListener {
-            val url = "https://Arihant25.github.io/streaks/privacy-policy.html"
+            val url = "https://github.com/Sourav928893/Daily-Streaks/blob/master/PrivacyPolicy"
             val intent = Intent(Intent.ACTION_VIEW, Uri.parse(url))
             startActivity(intent)
         }
