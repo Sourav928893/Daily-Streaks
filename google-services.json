@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "705155052704",
+    "project_id": "list-app-103ce",
+    "storage_bucket": "list-app-103ce.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:705155052704:android:e9716b214884938ee945c5",
+        "android_client_info": {
+          "package_name": "com.sk.timemanagementapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkzsjrF83A1dvyNgrCa_pXmasloHavh1w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:705155052704:android:414b1ac96dcde036e945c5",
+        "android_client_info": {
+          "package_name": "com.sourav.streaks"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkzsjrF83A1dvyNgrCa_pXmasloHavh1w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
